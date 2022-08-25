@@ -2,7 +2,7 @@
 
 namespace ParamsArray
 {
-    internal class Util
+    internal class Utils
     {
         public static int Sum(params int[] paramList)
         {
